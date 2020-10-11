@@ -1,0 +1,2 @@
+# osmarfinal
+proyecto de osmar
